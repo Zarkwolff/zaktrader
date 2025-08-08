@@ -1,0 +1,5 @@
+Openrouter API Key
+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
+
+Token API Telegram bot
+8234860026:AAG3L7T1KzwLCbWHH-ZINGR9bHFC0ZhUoTg
