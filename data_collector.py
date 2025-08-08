@@ -6,7 +6,7 @@ from ta.volatility import BollingerBands
 
 def detectar_padroes(df):
     """
-    Detecta padrões b´pasicos de velas no Dataframe.
+    Detecta padrões basicos de velas no Dataframe.
     """
     padroes = []
 
@@ -91,8 +91,8 @@ def process_candles(candles, suporte_resistencia_periodo=20):
 if __name__ == "__main__":
     from iq_interface import IQBot
 
-    email = "zarkwolff.trade@gmail.com"
-    senha = "@RivDfe7B@Lp#3"
+    email = "SEU_EMAIL"
+    senha = "SUA_SENHA"
     bot = IQBot(email, senha)
     bot.change_balance_mode("PRACTICE")
 

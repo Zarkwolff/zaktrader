@@ -149,8 +149,8 @@ if __name__ == "__main__":
     from iq_interface import IQBot
     import time
     
-    email = "zarkwolff.trade@gmail.com"
-    senha = "@RivDfe7B@Lp#3"
+    email = "SEU_EMAIL"
+    senha = "SUA_SENHA"
     bot = IQBot(email, senha)
     bot.change_balance_mode("PRACTICE")
 

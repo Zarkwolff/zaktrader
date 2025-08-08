@@ -36,8 +36,8 @@ class IQBot:
         return status, id
     
 if __name__ == "__main__":
-    email = "zarkwolff.trade@gmail.com"
-    senha = "@RivDfe7B@Lp#3"
+    email = "SEU_EMAIL"
+    senha = "SUA_SENHA"
     bot = IQBot(email, senha)
 
     #Menu para selecionar o tipo de conta
